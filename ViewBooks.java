@@ -29,9 +29,12 @@ public class ViewBooks extends JFrame {
 		});
 	}
 
-	/**
-	 * Create the frame.
-	 */
+
+	
+	 // Create the frame.
+
+
+	
 	public ViewBooks() {
 		setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);
 		setBounds(100, 100, 450, 300);
