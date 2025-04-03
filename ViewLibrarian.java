@@ -29,9 +29,10 @@ public class ViewLibrarian extends JFrame {
 		});
 	}
 
-	/**
-	 * Create the frame.
-	 */
+	
+	// Create the Frame
+	
+	 
 	public ViewLibrarian() {
 		setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);
 		setBounds(100, 100, 450, 300);
