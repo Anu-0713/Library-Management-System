@@ -18,9 +18,7 @@ public class AdminSuccess extends JFrame {
 	static AdminSuccess frame;
 	private JPanel contentPane;
 
-	/**
-	 * Launch the application.
-	 */
+	//Launch the Application
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
@@ -34,9 +32,7 @@ public class AdminSuccess extends JFrame {
 		});
 	}
 
-	/**
-	 * Create the frame.
-	 */
+	//Create the Frame
 	public AdminSuccess() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 450, 371);
